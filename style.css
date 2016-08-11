@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+  margin-top: 60px;
+}
+textarea{
+  max-width: 500px;
+  width: 500px;
+  height: 500px;
+  font-size: 16pt;
+  font-family: sans-serif;
+}
